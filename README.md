@@ -63,7 +63,6 @@ This serious game is designed to raise awareness among a various population and 
 | [Animation Book editable (EN)](English%20version/methods/docx/Animation-Book_EN.docx) • [Livret animation éditable (FR)](French%20version/Méthodes/docx/Livret%20animationFR.docx) | Editable Game master guide (docx) |
 | [Rules editable (EN)](English%20version/methods/docx/rules_EN.docx) • [Règles éditables (FR)](French%20version/Méthodes/docx/règlesFR.docx) | Editable resume of the rules (docx) |
 | [UX Scape Presentation (EN)](English%20version/UXscape%20Presentation%20EN.pptx) • [Présentation UX Scape (FR)](French%20version/UXscape%20Presentation%20FR.pptx) | PowerPoint presentation |
-| [README.md](README.md) | This file, project presentation |
 
 ---
 
